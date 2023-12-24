@@ -57,13 +57,13 @@ options: A placeholder Object `{}`
 #### Javascript code
 ```js
 placeholder.set({
-	background: "#677cbb",  // Placeholder background (optional)
-	color: "#fff",          // Placholder text color (optional)
-	sizePreview: true,      // true/false true for incling size preview (optinal)
-	fontFamily: "Arial",    // Custom font-family (optinal)
-	fontSize: 20,           // Custom font-size (optinal)
-	fontWeight: 900,        // Custom font-weight (optinal)
-	fontStyle: "normal"     // Custom font-style italic/oblique/normal (optinal)
+  background: "#677cbb",  // Placeholder background (optional)
+  color: "#fff",          // Placholder text color (optional)
+  sizePreview: true,      // true/false true for incling size preview (optinal)
+  fontFamily: "Arial",    // Custom font-family (optinal)
+  fontSize: 20,           // Custom font-size (optinal)
+  fontWeight: 900,        // Custom font-weight (optinal)
+  fontStyle: "normal"     // Custom font-style italic/oblique/normal (optinal)
 });
 ```
 
@@ -97,8 +97,8 @@ To report a bug in any of these browsers, please <a href="https://github.com/jqr
 **Javascript Code**
 ```js
 placeholder.set({
-	sizePreview: true,
-	fontFamily: "monospace"
+  sizePreview: true,
+  fontFamily: "monospace"
 });
 ```
 **Preview:**
@@ -108,10 +108,10 @@ placeholder.set({
 **Javascript Code**
 ```js
 placeholder.set({
-	background: "dark",
-	sizePreview: true,
-	color: "#ddd",
-	fontFamily: "monospace"
+  background: "dark",
+  sizePreview: true,
+  color: "#ddd",
+  fontFamily: "monospace"
 });
 ```
 **Preview:**
@@ -121,13 +121,13 @@ placeholder.set({
 **Javascript Code**
 ```js
 placeholder.set({
-	background: "#677cbb",
-	color: "#fff",
-	sizePreview: true,
-	fontFamily: "Arial",
-	fontSize: 20,	
-	fontWeight: 900,
-	fontStyle: "normal"
+  background: "#677cbb",
+  color: "#fff",
+  sizePreview: true,
+  fontFamily: "Arial",
+  fontSize: 20,	
+  fontWeight: 900,
+  fontStyle: "normal"
 });
 ```
 **Preview:**
@@ -142,11 +142,11 @@ placeholder.set({
 **Javascript Code**
 ```js
 placeholder.set({
-	background: "#555555",
-	fontWeight: 900,
-	fontSize: 20,
-	color: "#eeeeee",
-	fontStyle: "italic"
+  background: "#555555",
+  fontWeight: 900,
+  fontSize: 20,
+  color: "#eeeeee",
+  fontStyle: "italic"
 });
 ```
 **Preview:**
