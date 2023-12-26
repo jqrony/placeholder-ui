@@ -9,6 +9,7 @@ Placeholder UI is a `Image` or `Video` placeholder user interface plugin. Placeh
 [![license](https://img.shields.io/npm/l/placeholder-ui?style=flat-square)](https://github.com/jqrony/placeholder-ui/blob/main/LICENSE)
 [![install size](https://packagephobia.com/badge?p=placeholder-ui)](https://packagephobia.com/result?p=placeholder-ui)
 ![author](https://img.shields.io/badge/Author-Shahzada%20Modassir-%2344cc11?style=flat-square)
+[![Socket Badge](https://socket.dev/api/badge/npm/package/placeholder-ui)](https://socket.dev/npm/package/placeholder-ui)
 
 - [🙏🏻 Follow on Github](https://github.com/jqrony)
 - [🔖 Releases](https://github.com/jqrony/placeholder-ui/releases)
