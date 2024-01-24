@@ -1,9 +1,9 @@
 /**!
- * placeholder-ui is fast free, pure Javascript plugin v1.1.0
+ * placeholder-ui is fast free, pure Javascript plugin v1.1.1
  * https://github.com/jqrony/placeholder-ui
  * 
  * @license MIT license
- * @version 1.1.0
+ * @version 1.1.1
  * 
  * Plugin dependent on Snizzle library
  * https://github.com/jqrony/snizzle
